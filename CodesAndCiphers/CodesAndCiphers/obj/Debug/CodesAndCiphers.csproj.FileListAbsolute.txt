@@ -1,0 +1,14 @@
+c:\users\binah\documents\visual studio 2017\Projects\CodesAndCiphers\CodesAndCiphers\bin\Debug\CodesAndCiphers.exe.config
+c:\users\binah\documents\visual studio 2017\Projects\CodesAndCiphers\CodesAndCiphers\bin\Debug\CodesAndCiphers.exe
+c:\users\binah\documents\visual studio 2017\Projects\CodesAndCiphers\CodesAndCiphers\bin\Debug\CodesAndCiphers.pdb
+c:\users\binah\documents\visual studio 2017\Projects\CodesAndCiphers\CodesAndCiphers\obj\Debug\CodesAndCiphers.csprojResolveAssemblyReference.cache
+c:\users\binah\documents\visual studio 2017\Projects\CodesAndCiphers\CodesAndCiphers\obj\Debug\MainWindow.g.cs
+c:\users\binah\documents\visual studio 2017\Projects\CodesAndCiphers\CodesAndCiphers\obj\Debug\App.g.cs
+c:\users\binah\documents\visual studio 2017\Projects\CodesAndCiphers\CodesAndCiphers\obj\Debug\CodesAndCiphers_MarkupCompile.cache
+c:\users\binah\documents\visual studio 2017\Projects\CodesAndCiphers\CodesAndCiphers\obj\Debug\CodesAndCiphers_MarkupCompile.lref
+c:\users\binah\documents\visual studio 2017\Projects\CodesAndCiphers\CodesAndCiphers\obj\Debug\MainWindow.baml
+c:\users\binah\documents\visual studio 2017\Projects\CodesAndCiphers\CodesAndCiphers\obj\Debug\CodesAndCiphers.g.resources
+c:\users\binah\documents\visual studio 2017\Projects\CodesAndCiphers\CodesAndCiphers\obj\Debug\CodesAndCiphers.Properties.Resources.resources
+c:\users\binah\documents\visual studio 2017\Projects\CodesAndCiphers\CodesAndCiphers\obj\Debug\CodesAndCiphers.csproj.GenerateResource.Cache
+c:\users\binah\documents\visual studio 2017\Projects\CodesAndCiphers\CodesAndCiphers\obj\Debug\CodesAndCiphers.exe
+c:\users\binah\documents\visual studio 2017\Projects\CodesAndCiphers\CodesAndCiphers\obj\Debug\CodesAndCiphers.pdb
