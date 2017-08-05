@@ -6,54 +6,89 @@
         xmlns:local="clr-namespace:CodesAndCiphers"
         mc:Ignorable="d"
         Title="Decoder" Height="350" Width="525" Background="Wheat">
-    
+
     <StackPanel>
-        <TextBox x:Name="InputText"
-            Width="160"
-            Margin="24"
-            Text="{Binding EncryptedInput, Mode=TwoWay, UpdateSourceTrigger=PropertyChanged}"
-            />
-
-
-        <TextBox
-            x:Name="AnswerBox"
-            Height="30"
-            Width="400"
-            Text="{Binding Answer, Mode=TwoWay}"
-            IsReadOnly="True"
-            />
         <Grid>
-            <Button 
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition/>
+                <ColumnDefinition/>
+            </Grid.ColumnDefinitions>
+            <Grid>
+                <Grid.RowDefinitions>
+                    <RowDefinition/>
+                    <RowDefinition/>
+                    <RowDefinition/>
+                </Grid.RowDefinitions>
+                
+
+
+
+                <TextBox
+                    x:Name="AnswerBox"
+                    Height="30"
+                   
+                    Text="{Binding Answer, Mode=TwoWay}"
+                    IsReadOnly="True"
+                    Grid.Column="0"
+                    Grid.Row="1"
+                    Margin="10 10 25 20"
+                    />
+                <ScrollViewer
+                    Grid.Column="0"
+                    Grid.Row="2"
+                    MaxHeight="200"
+                    >
+                        <TextBox
+                            x:Name="Groupings"
+                            Text="{Binding Groups, Mode=TwoWay}"
+                            IsReadOnly="True"
+                            Margin="10 0 10 0"
+                            TextAlignment="Left"
+                            />
+                </ScrollViewer>
+
+            </Grid>
+            <StackPanel
+                Grid.Column="1" 
+                Background="Firebrick"                
+                >
+                <TextBox x:Name="InputText"
+                    Width="160"
+                    Margin="24"
+                    Text="{Binding EncryptedInput, Mode=TwoWay, UpdateSourceTrigger=PropertyChanged}"
+                    Grid.Column="0"
+                    Grid.Row="0"
+                     />
+                <Grid>
+                    <Button 
             x:Name="IncreaseRowButton"
             Width="50"
             Height="24"
             Content="Increase Columns"
-            Margin="10"
+            Margin="84 0 0 0"
             Click="IncreaseRowButton_Click"
             Grid.Row="0"
             Grid.Column="1"
             />
-            <Button 
+                    <Button 
             Grid.Row="0"
             Grid.Column="0"
             x:Name="DecreaseRowButton"
             Width="50"
             Height="24"
             Content="Decrease Columns"
-            Margin="10"
+            Margin="0 0 84 0"
             Click="DecreaseRowButton_Click"
+            HorizontalAlignment="Center"
             />
+                </Grid>
+            </StackPanel>
         </Grid>
 
         
-        <ScrollViewer>
-            <TextBox
-            x:Name="Groupings"
-            Text="{Binding Groups}"
-            IsReadOnly="True"
-            />
-        </ScrollViewer>
-       
+
+
+
 
 
     </StackPanel>

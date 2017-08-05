@@ -45,11 +45,16 @@ namespace CodesAndCiphers
         private void IncreaseRowButton_Click(object sender, RoutedEventArgs e)
         {
             ciphers.IndexMax++;
+            ciphers.EncryptedInput += "";
+            
+            
         }
 
         private void DecreaseRowButton_Click(object sender, RoutedEventArgs e)
         {
             ciphers.IndexMax--;
+            ciphers.EncryptedInput += "";
+            
         }
     }
 }

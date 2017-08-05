@@ -12,3 +12,17 @@ c:\users\binah\documents\visual studio 2017\Projects\CodesAndCiphers\CodesAndCip
 c:\users\binah\documents\visual studio 2017\Projects\CodesAndCiphers\CodesAndCiphers\obj\Debug\CodesAndCiphers.csproj.GenerateResource.Cache
 c:\users\binah\documents\visual studio 2017\Projects\CodesAndCiphers\CodesAndCiphers\obj\Debug\CodesAndCiphers.exe
 c:\users\binah\documents\visual studio 2017\Projects\CodesAndCiphers\CodesAndCiphers\obj\Debug\CodesAndCiphers.pdb
+C:\Users\Binah Smith\Documents\GitHub\CiphersAndStuff\CodesAndCiphers\CodesAndCiphers\bin\Debug\CodesAndCiphers.exe.config
+C:\Users\Binah Smith\Documents\GitHub\CiphersAndStuff\CodesAndCiphers\CodesAndCiphers\obj\Debug\CodesAndCiphers.exe
+C:\Users\Binah Smith\Documents\GitHub\CiphersAndStuff\CodesAndCiphers\CodesAndCiphers\obj\Debug\CodesAndCiphers.pdb
+C:\Users\Binah Smith\Documents\GitHub\CiphersAndStuff\CodesAndCiphers\CodesAndCiphers\bin\Debug\CodesAndCiphers.exe
+C:\Users\Binah Smith\Documents\GitHub\CiphersAndStuff\CodesAndCiphers\CodesAndCiphers\bin\Debug\CodesAndCiphers.pdb
+C:\Users\Binah Smith\Documents\GitHub\CiphersAndStuff\CodesAndCiphers\CodesAndCiphers\obj\Debug\CodesAndCiphers.csprojResolveAssemblyReference.cache
+C:\Users\Binah Smith\Documents\GitHub\CiphersAndStuff\CodesAndCiphers\CodesAndCiphers\obj\Debug\MainWindow.g.cs
+C:\Users\Binah Smith\Documents\GitHub\CiphersAndStuff\CodesAndCiphers\CodesAndCiphers\obj\Debug\App.g.cs
+C:\Users\Binah Smith\Documents\GitHub\CiphersAndStuff\CodesAndCiphers\CodesAndCiphers\obj\Debug\CodesAndCiphers_MarkupCompile.cache
+C:\Users\Binah Smith\Documents\GitHub\CiphersAndStuff\CodesAndCiphers\CodesAndCiphers\obj\Debug\CodesAndCiphers_MarkupCompile.lref
+C:\Users\Binah Smith\Documents\GitHub\CiphersAndStuff\CodesAndCiphers\CodesAndCiphers\obj\Debug\MainWindow.baml
+C:\Users\Binah Smith\Documents\GitHub\CiphersAndStuff\CodesAndCiphers\CodesAndCiphers\obj\Debug\CodesAndCiphers.g.resources
+C:\Users\Binah Smith\Documents\GitHub\CiphersAndStuff\CodesAndCiphers\CodesAndCiphers\obj\Debug\CodesAndCiphers.Properties.Resources.resources
+C:\Users\Binah Smith\Documents\GitHub\CiphersAndStuff\CodesAndCiphers\CodesAndCiphers\obj\Debug\CodesAndCiphers.csproj.GenerateResource.Cache
